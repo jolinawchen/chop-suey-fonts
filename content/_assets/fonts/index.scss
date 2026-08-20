@@ -8,6 +8,12 @@ $assets-dir: "/_assets/" !default;
   @return url($assets-dir + 'fonts/' + $file);
 }
 ////
+/// Teachers Variable
+@import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
+/// Vollkorn Variable
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
 // IBM Plex Sans Condensed
 // https://github.com/IBM/plex
 // Open Font License 1.1 (https://scripts.sil.org/OFL)

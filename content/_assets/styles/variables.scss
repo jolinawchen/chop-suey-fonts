@@ -6,9 +6,9 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$accent-color: #D6220A;
+$content-background-color: #f4f3ed; // main text area background color
+$secondary-background-color: #f4f3ed; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -19,6 +19,8 @@ $navbar: normal;
 
 
 // Pre-defined fonts
+$teachers: 'Teachers', sans-serif;
+$vollkorn: 'Vollkorn', serif;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
@@ -29,7 +31,7 @@ $times-serif: Times, serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
+$quire-base-font-size: 18px;
 $quire-page-paragraph-style: line-space; // or use indent
 
 // Cover typography
@@ -79,10 +81,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $teachers; // body and menu text
+$quire-headings-font: $teachers; // headings
+$quire-footnotes-font: $teachers; // footnotes and page backmatter
+$quire-navigation-font: $teachers; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
@@ -95,10 +97,10 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
-  $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
+  $quire-primary-font: $teachers !default;
+  $quire-headings-font: $vollkorn !default;
+  $quire-footnotes-font: $teachers !default;
+  $quire-navigation-font: $teachers !default;
   $accent-color: $red !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;

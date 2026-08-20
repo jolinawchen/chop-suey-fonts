@@ -61,8 +61,8 @@ localization:
 menuType: full # full | brief
 
 navigation:
-  nextButtonText: Next
-  prevButtonText: Back
+  nextButtonText: 'NEXT'
+  prevButtonText: 'BACK'
 
 pageTitle:
   labelDivider: '. '
