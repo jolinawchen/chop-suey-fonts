@@ -64,10 +64,10 @@ Though it has since fallen out of style, to this day you can still find restaura
 <h3> Notes </h3>
 
 [^1]: Li, “The chop suey letterform and cultural hegemony in global representation of visual Chineseness,” 4.
-[^2]: Paul Shaw,  “Stereo Types,” Print Mag. June 17, 2009. https://www.printmag.com/design-resources/stereo_types/. 
+[^2]: Paul Shaw,  “Stereo Types,” *Print Mag*. June 17, 2009. https://www.printmag.com/design-resources/stereo_types/. 
 [^3]: Li, “The chop suey letterform in historical Los Angeles Chinatowns,” 167.
 [^4]: Mo, “Between Visibility and Marginality,” 5:38–5:42.
-[^5]: Linus Boman, “The American Origins of the Chinese Takeout Font,” posted February 1, 2026, by Linus Boman, Youtube, 10:45–10:51, https://www.youtube.com/watch?v=YP9gEeVQZ2U.
+[^5]: Linus Boman, “The American Origins of the Chinese Takeout Font,” posted February 1, 2026, by Linus Boman, *Youtube*, 10:45–10:51, https://www.youtube.com/watch?v=YP9gEeVQZ2U.
 [^6]: Li, “The chop suey letterform and cultural hegemony in global representation of visual Chineseness,” 4.
 [^7]: Li, “The chop suey letterform in historical Los Angeles Chinatowns,” 172.
 [^8]: Li, “The chop suey letterform and cultural hegemony in global representation of visual Chineseness,” 2.

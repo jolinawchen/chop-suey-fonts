@@ -73,17 +73,17 @@ Zhu also designed a full set of upper and lowercase letterforms for *Jin Imitati
 {% backmatter %}
 <h3> Notes </h3>
 
-[^1]: Raven Mo, “The American Origins of the Chinese Takeout Font,” interview by Linus Boman, posted February 1, 2026, by Linus Boman, Youtube, 3:25–3:34, https://www.youtube.com/watch?v=YP9gEeVQZ2U.
+[^1]: Raven Mo, “The American Origins of the Chinese Takeout Font,” interview by Linus Boman, posted February 1, 2026, by Linus Boman, *Youtube*, 3:25–3:34, https://www.youtube.com/watch?v=YP9gEeVQZ2U.
 [^2]: Mo, “The American Origins of the Chinese Takeout Font.” 3:48–4:00.
 [^3]: Shaw, “Stereo Types.”
 [^4]: Mo, “The American Origins of the Chinese Takeout Font.” 4:19–4:36.
 [^5]: Mo, “Between Visibility and Marginality,” 7:13–7:38.
 [^6]: Attlas, “Chop Suey Font Isn’t Chinese: A Typographic Plot Twist,” Attlas. February 4, 2026. https://www.attlasdesign.com/articles/chop-suey.
 [^7]: Mo, “Between Visibility and Marginality.” 6:36–6:45. 
-[^8]: Mingxuan Shen, “Designing Chineseness: an interview with Mingxuan Shen on the New Wonton typeface,” Interview by Yu Li and Raven Mo, Visual Studies 41, no. 1 (2026): 82. https://doi.org/10.1080/1472586X.2025.2567369.
-[^9]: Mingxuan Shen, New Wonton, Typeface design. 2020. https://shenmingxuan.net/New-Wonton. 
+[^8]: Mingxuan Shen, “Designing Chineseness: an interview with Mingxuan Shen on the New Wonton typeface,” Interview by Yu Li and Raven Mo, *Visual Studies* 41, no. 1 (2026): 82. https://doi.org/10.1080/1472586X.2025.2567369.
+[^9]: Mingxuan Shen, *New Wonton*, Typeface design. 2020. https://shenmingxuan.net/New-Wonton. 
 [^10]: Shen, “Designing Chineseness: an interview with Mingxuan Shen on the New Wonton typeface,” 83.
 [^11]: Shen, “Designing Chineseness: an interview with Mingxuan Shen on the New Wonton typeface,” 83.
-[^12]: Junyi Zhu, Jin Imitation, Typeface design. 2023. https://junyizhudesign.cargo.site/jin-imitation.
-[^13]: Zhu, Jin Imitation. 2023.
+[^12]: Junyi Zhu, *Jin Imitation*, Typeface design. 2023. https://junyizhudesign.cargo.site/jin-imitation.
+[^13]: Zhu, *Jin Imitation*. 2023.
 {% endbackmatter %}

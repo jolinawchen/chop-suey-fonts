@@ -34,8 +34,8 @@ The first commercial faux-Chinese font was created in 1883 by the Cleveland Type
 {% backmatter %}
 <h3> Notes </h3>
 
-[^1]: Raven Mo, “Between Visibility and Marginality: The Paradox of Chop Suey Font Economics,” presentation, May 26, 2026, posted June 30, 2026, by Atypl, Youtube, 0:37, https://www.youtube.com/watch?v=Vkcl-KG_xL4.
-[^2]: Yu Li, “The chop suey letterform and cultural hegemony in global representation of visual Chineseness,” Visual Communication 0, no. 0 (2025): 2, https://doi.org/10.1177/14703572251328349. 
-[^3]: Yu Li, “The chop suey letterform in historical Los Angeles Chinatowns,” Social Semiotics 35, no. 2(2025), 163. https://doi.org/10.1080/10350330.2023.2286443.
+[^1]: Raven Mo, “Between Visibility and Marginality: The Paradox of Chop Suey Font Economics,” presentation, May 26, 2026, posted June 30, 2026, by Atypl, *Youtube*, 0:37, https://www.youtube.com/watch?v=Vkcl-KG_xL4.
+[^2]: Yu Li, “The chop suey letterform and cultural hegemony in global representation of visual Chineseness,” *Visual Communication* 0, no. 0 (2025): 2, https://doi.org/10.1177/14703572251328349. 
+[^3]: Yu Li, “The chop suey letterform in historical Los Angeles Chinatowns,” *Social Semiotics* 35, no. 2(2025), 163. https://doi.org/10.1080/10350330.2023.2286443.
 [^4]: Li, “The chop suey letterform in historical Los Angeles Chinatowns,” 166.
 {% endbackmatter %}
