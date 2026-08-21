@@ -3,120 +3,120 @@ figure_list:
 
   - id: "Hop Kee Restaurant"
     src: hop-kee.png
-    caption: "Hop Kee Restaurant, Manhattan, New York. 2026."
+    caption: "Figure 1. Hop Kee Restaurant, Manhattan, New York. 2026."
     credit: "Katherine Chen"
     alt: "A photo of a storefront with a white sign that says “Hop Kee Restaurant“ in red chop-suey letters."
 
   - id: "House of Moy Lee"
     src: house-moy-lee.jpg
-    caption: "House of Moy Lee Chin Restaurant, Miami Beach, Florida. 1980."
+    caption: "Figure 20. House of Moy Lee Chin Restaurant, Miami Beach, Florida. 1980."
     credit: "John Margolies Roadside America Archive"
     alt: "A photo of a white storefront with a name in large red chop-suey letters that say “House of Moy Lee“"
 
   - id: "Toy Sun Restaurant"
     src: toy-sun.jpg
-    caption: "Toy Sun Chinese Restaurant, Berlin, Connecticut. 1978."
+    caption: "Figure 2. Toy Sun Chinese Restaurant, Berlin, Connecticut. 1978."
     credit: "John Margolies Roadside America Archive"
     
 
   - id: "Cleveland Type"
     src: cleveland.png
-    caption: "Book of Specimens, 1883."
+    caption: "Figure 3. Book of Specimens, 1883."
     credit: "Cleveland Type Foundry"
     
 
   - id: "A Trip to Chinatown"
     src: trip-to-chinatown.png
-    caption: "'A Trip to Chinatown Poster', 1899."
+    caption: "Figure 4.'A Trip to Chinatown Poster', 1899."
     credit: "Beggarstaff Brothers"
     
 
   - id: "Take Day Off"
     src: take-day-off.jpg
-    caption: "'Go Ahead, Please—Take Day Off!', 1941."
+    caption: "Figure 5.'Go Ahead, Please—Take Day Off!', 1941."
     credit: "Bureau of Special Services"
     
 
   - id: "Chew Yuen Co"
     src: chew-yuen-co.png
-    caption: "Chew Yuen Co., New Chinatown, Los Angeles, 2026."
+    caption: "Figure 6. Chew Yuen Co., New Chinatown, Los Angeles, 2026."
     credit: "Katherine Chen"
     
 
   - id: "New Chinatown"
     src: new-chinatown-sign.png
-    caption: "New Chinatown Sign, New Chinatown, Los Angeles, 2026."
+    caption: "Figure 7. New Chinatown Sign, New Chinatown, Los Angeles, 2026."
     credit: "Katherine Chen"
     
 
   - id: "Fight Club"
     src: fight-club.png
-    caption: "Chinatown Fight Club, New York City, 2026."
+    caption: "Figure 8. Chinatown Fight Club, New York City, 2026."
     credit: "Katherine Chen"
     
 
   - id: "Three Happiness Canto Cuisine"
     src: three-happiness.jpeg
-    caption: "Three Happiness Cantonese Cuisine Restaurant, Chicago, 2026."
+    caption: "Figure 9. Three Happiness Cantonese Cuisine Restaurant, Chicago, 2026."
     credit: "Jalen Chang"
     
 
   - id: "New Wonton Application"
     src: new-wonton_application.png
-    caption: "‘Reimagine Chineseness’ New Wonton application. 2023."
+    caption: "Figure 10. ‘Reimagine Chineseness’ New Wonton application. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "New Wonton Yong"
     src: new-wonton_yong.png
-    caption: "‘Yong’ New Wonton. 2023."
+    caption: "Figure 11. ‘Yong’ New Wonton. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "New Wonton Sample"
     src: new-wonton_sample.png
-    caption: "New Wonton. 2023."
+    caption: "Figure 12. New Wonton. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "New Wonton Specimen"
     src: new-wonton_specimen.png
-    caption: "New Wonton Specimen. 2023."
+    caption: "Figure 13. New Wonton Specimen. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "New Wonton Construction"
     src: new-wonton_construction.png
-    caption: "New Wonton Construction. 2023."
+    caption: "Figure 14. New Wonton Construction. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "New Wonton Size"
     src: new-wonton_size.png
-    caption: "New Wonton font sizes. 2023."
+    caption: "Figure 15. New Wonton font sizes. 2023."
     credit: "©Mingxuan Shen"
     
 
   - id: "Jin Imitation Display"
     src: jin-speciment-1.jpg
-    caption: "Jin Imitation, 2023."
+    caption: "Figure 16. Jin Imitation, 2023."
     credit: "©Junyi Zhu"
     
 
   - id: "Jin Imitation Characteristics"
     src: jin-specimen-2.jpg
-    caption: "Jin Imitation, 2023."
+    caption: "Figure 17. Jin Imitation, 2023."
     credit: "©Junyi Zhu"
     
 
   - id: "Jin Imitation Letters"
     src: jin-specimen-3.jpg
-    caption: "Jin Imitation, 2023."
+    caption: "Figure 18. Jin Imitation, 2023."
     credit: "©Junyi Zhu"
     
 
   - id: "Jin Imitation Shoujin"
     src: jin-specimen-4.jpg
-    caption: "Jin Imitation, 2023."
+    caption: "Figure 19. Jin Imitation, 2023."
     credit: "©Junyi Zhu"
     
